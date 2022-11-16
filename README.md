@@ -1,8 +1,4 @@
-by os ttz
-lider: Luiz A.
-membros: Gustavo B. e Matheus L.
-turma: 1º B
-todos gostamos de futebol
+nome: luiz lima
+idade: 16
 periodo: manha
-
-é isso tenha um bom dia 
+colegio: H.P.C.
